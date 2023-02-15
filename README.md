@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kalana Eranda Jayasuriya
 - 👀 I’m interested in Data Science and related things
-- 🌱 I’m currently learning ReactJS with .NET
-- 💞️ I’m looking to collaborate on Data Engineering paths
+- 🌱 I’m currently learning ReactJS with NodeJS
+- 💞️ I’m looking to collaborate on Data Engineering or Software Engineering paths
 - 📫 How to reach me --> https://www.linkedin.com/in/kalana-jayasuriya-29226514a/
